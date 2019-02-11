@@ -1,4 +1,10 @@
+
 one more remote change
 remote change
 Dev 1 branch file
+
+one more line from master
+=======
+Conflicting line
+
 Test Git Demo
